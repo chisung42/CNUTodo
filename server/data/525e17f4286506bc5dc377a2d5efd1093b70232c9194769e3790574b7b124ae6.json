@@ -1,0 +1,72 @@
+{
+  "todo_list": [
+    {
+      "course_nm": "블록체인 프로그래밍",
+      "due_date": "20250407235900",
+      "item_title_temp": "totalSupply, balanceOf state",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "블록체인 프로그래밍",
+      "due_date": "20250407235800",
+      "item_title_temp": "test totalSupply, balanceOf",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "블록체인 프로그래밍",
+      "due_date": "20250407235900",
+      "item_title_temp": "mint function",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "블록체인 프로그래밍",
+      "due_date": "20250407235900",
+      "item_title_temp": "git commit",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "블록체인 프로그래밍",
+      "due_date": "20250407235900",
+      "item_title_temp": "test minting",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "블록체인 프로그래밍",
+      "due_date": "20250407235900",
+      "item_title_temp": "balance check (require)",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "블록체인 프로그래밍",
+      "due_date": "20250407235900",
+      "item_title_temp": "transfer function",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "취업과 창업",
+      "due_date": "20250407235900",
+      "item_title_temp": "5-1주차_취업은 멋진 인생의 출발점",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "취업과 창업",
+      "due_date": "20250407235900",
+      "item_title_temp": "5-2주차_매력적인 PT의 개념",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "운영체제및실습",
+      "due_date": "20250408235900",
+      "item_title_temp": "6주차 과제",
+      "type": "과제"
+    },
+    {
+      "course_nm": "프로그래밍언어개론",
+      "due_date": "20250403235900",
+      "item_title_temp": "4주차 과제",
+      "type": "과제"
+    }
+  ],
+  "user_no": "525e17f4286506bc5dc377a2d5efd1093b70232c9194769e3790574b7b124ae6",
+  "update_time": "2025-04-02T02:33:47.808Z"
+}

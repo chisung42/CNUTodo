@@ -1,0 +1,18 @@
+{
+  "todo_list": [
+    {
+      "course_nm": "인물로보는일본문화",
+      "due_date": "20250331235900",
+      "item_title_temp": "오케하자마 전투 ",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "기초일본어",
+      "due_date": "20250330235900",
+      "item_title_temp": "자기소개서 작성",
+      "type": "과제"
+    }
+  ],
+  "user_no": "eb8eced56ea008cd362479625aeed0aa30616258b9ed94e2bc353c5461b06705",
+  "update_time": "2025-03-25T01:28:26.610Z"
+}

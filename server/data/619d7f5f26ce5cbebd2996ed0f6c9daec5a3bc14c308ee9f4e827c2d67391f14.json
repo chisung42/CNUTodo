@@ -1,0 +1,237 @@
+{
+  "todo_list": [
+    {
+      "course_nm": "논리회로",
+      "due_date": "20250511235900",
+      "info": "20250511235900",
+      "item_title_temp": "12.3 Binary Counter",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "논리회로",
+      "due_date": "20250511235900",
+      "info": "20250511235900",
+      "item_title_temp": "12.1 Accumulator",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "논리회로",
+      "due_date": "20250511235900",
+      "info": "20250511235900",
+      "item_title_temp": "12.3 Binary Up & Down Counter",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "논리회로",
+      "due_date": "20250511235900",
+      "info": "20250511235900",
+      "item_title_temp": "12.4 Other Counters",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "자료구조",
+      "due_date": "20250511235900",
+      "info": "20250511235900",
+      "item_title_temp": "강의1",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "자료구조",
+      "due_date": "20250511235900",
+      "info": "20250511235900",
+      "item_title_temp": "강의2",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "컴퓨터프로그래밍3",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "4-3 함수 간 정보 교환",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "컴퓨터프로그래밍3",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "4-4 재귀함수",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "컴퓨터프로그래밍3",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "5-2 문자열기초",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "컴퓨터프로그래밍3",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "5-3 포인터맛보기",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "컴퓨터프로그래밍3",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "5-1 1차원 배열",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "컴퓨터프로그래밍3",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "6-3 포인터와 문자열",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "컴퓨터프로그래밍3",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "6-1 배열 이름은 포인터다",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "컴퓨터프로그래밍3",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "6-2 포인터 증감 연산",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "컴퓨터프로그래밍3",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "7-1 배열 인자",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "컴퓨터프로그래밍3",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "7-3 포인터 const",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "컴퓨터프로그래밍3",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "7-2 CBV(call by value)",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "컴퓨터프로그래밍3",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "다차원배열 초기화",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "컴퓨터프로그래밍3",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "다차원배열 구현",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "컴퓨터프로그래밍3",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "9-2 포인터의 배열",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "컴퓨터프로그래밍3",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "10-1 다차원 배열은 배열 포인터다",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "컴퓨터프로그래밍3",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "9-3 배열의 포인터",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "컴퓨터프로그래밍3",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "10-2 다차원 배열과 함수 인자",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "컴퓨터프로그래밍3",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "1. Stack 과  Heap",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "컴퓨터프로그래밍3",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "3. 동적메모리 좀더 알아보기",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "컴퓨터프로그래밍3",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "2. malloc",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "확률 및 통계",
+      "due_date": "20250511235900",
+      "info": "20250511235900",
+      "item_title_temp": "lec 10",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "기초프로젝트랩",
+      "due_date": "20250520235900",
+      "info": "20250520235900",
+      "item_title_temp": "firebase 구성 후 database app 화면 캡쳐 - 학번 기입",
+      "type": "과제"
+    },
+    {
+      "course_nm": "논리회로",
+      "due_date": "20250519160000",
+      "info": "20250512160000",
+      "item_title_temp": "Homework #5",
+      "type": "과제"
+    },
+    {
+      "course_nm": "논리회로",
+      "due_date": "20250520150000",
+      "info": "20250513170000",
+      "item_title_temp": "Lab #5. 래치와 플립플롭 (5월 13일)",
+      "type": "과제"
+    },
+    {
+      "course_nm": "취업과 창업",
+      "due_date": "20250516235900",
+      "info": "20250516235900",
+      "item_title_temp": "중간고사 과제 진로활동 체험 보고서",
+      "type": "과제"
+    },
+    {
+      "course_nm": "취업과 창업",
+      "due_date": "20250606235900",
+      "info": "20250606235900",
+      "item_title_temp": "취업과 창업 기말고사 과제",
+      "type": "과제"
+    },
+    {
+      "course_nm": "컴퓨터프로그래밍3",
+      "due_date": "20250514235900",
+      "info": "20250514235900",
+      "item_title_temp": "10주차 실습 코드 제출",
+      "type": "과제"
+    }
+  ],
+  "user_no": "619d7f5f26ce5cbebd2996ed0f6c9daec5a3bc14c308ee9f4e827c2d67391f14",
+  "update_time": "2025-05-08T13:04:45.272Z"
+}

@@ -1,0 +1,60 @@
+{
+  "todo_list": [
+    {
+      "course_nm": "금융시장론",
+      "due_date": "20250330235900",
+      "item_title_temp": "Additional Video Uploaded for Week 3",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "금융시장론",
+      "due_date": "20250330235900",
+      "item_title_temp": "Lecture 1: The Meaning of Interest Rates",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "금융시장론",
+      "due_date": "20250330235900",
+      "item_title_temp": "Lecture 2: The Meaning of Interest Rates",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "금융시장론",
+      "due_date": "20250330235900",
+      "item_title_temp": "Lecture 3: The Behavior of Interest Rates",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "투자론",
+      "due_date": "20250330235900",
+      "item_title_temp": "증권시장_SPAC",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "투자론",
+      "due_date": "20250330235900",
+      "item_title_temp": "위험과 수익률 1",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "금융시장론",
+      "due_date": "20250330235900",
+      "item_title_temp": "Interest Rates and Their Behavior",
+      "type": "토론"
+    },
+    {
+      "course_nm": "글로벌경영론",
+      "due_date": "20250330235900",
+      "item_title_temp": "5장_글로벌전략의수립",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "투자론",
+      "due_date": "20250330235900",
+      "item_title_temp": "위험과 수익률 강의자료",
+      "type": "자료실"
+    }
+  ],
+  "user_no": "8eeb52bebfc8b012e207ba6f43078e2e35b6c496ec335a872f34d81acc5ee664",
+  "update_time": "2025-03-25T07:21:51.859Z"
+}

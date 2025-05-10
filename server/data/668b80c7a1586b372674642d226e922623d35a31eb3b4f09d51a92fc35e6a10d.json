@@ -1,0 +1,36 @@
+{
+  "todo_list": [
+    {
+      "course_nm": "범죄의진실과오해",
+      "due_date": "20250427235900",
+      "item_title_temp": "4.28.(월) 중간고사 안내",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "범죄의진실과오해",
+      "due_date": "20250427235900",
+      "item_title_temp": " Lecture8_2_White-Collar Crimes(4.23. 동영상강의)",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "범죄의진실과오해",
+      "due_date": "20250427235900",
+      "item_title_temp": " Lecture8_1_Drug- related Crimes(4.21. 동영상강의)",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "범죄의진실과오해",
+      "due_date": "20250427235900",
+      "item_title_temp": " Lecture8_Drug- related Crimes & White-collar Crimes",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "뉴비 멘토링",
+      "due_date": "20250430235900",
+      "item_title_temp": "4월 활동보고서",
+      "type": "과제"
+    }
+  ],
+  "user_no": "668b80c7a1586b372674642d226e922623d35a31eb3b4f09d51a92fc35e6a10d",
+  "update_time": "2025-04-24T01:00:51.884Z"
+}

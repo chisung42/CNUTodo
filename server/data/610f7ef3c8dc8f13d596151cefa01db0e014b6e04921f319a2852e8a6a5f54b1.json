@@ -1,0 +1,54 @@
+{
+  "todo_list": [
+    {
+      "course_nm": "데이터통신",
+      "due_date": "20250507235900",
+      "item_title_temp": "9주차 실습 강의",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "실전코딩",
+      "due_date": "20250505235900",
+      "item_title_temp": "5월 5일 어린이날 온라인 보강- 4교시 및 7교시",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "실전코딩",
+      "due_date": "20250506175900",
+      "item_title_temp": "도커 컨테이너 기술 강의 자료",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "IT영어1",
+      "due_date": "20250504235900",
+      "item_title_temp": "(Midterm) Final Version of Your Resume Submission",
+      "type": "과제"
+    },
+    {
+      "course_nm": "데이터통신",
+      "due_date": "20250507235900",
+      "item_title_temp": "영화/소설 감상문 제출",
+      "type": "과제"
+    },
+    {
+      "course_nm": "데이터통신",
+      "due_date": "20250507235900",
+      "item_title_temp": "9주차 실습과제",
+      "type": "과제"
+    },
+    {
+      "course_nm": "운영체제및실습",
+      "due_date": "20250506235900",
+      "item_title_temp": "7회차 과제",
+      "type": "과제"
+    },
+    {
+      "course_nm": "자료구조",
+      "due_date": "20250501235900",
+      "item_title_temp": "7주차 과제",
+      "type": "과제"
+    }
+  ],
+  "user_no": "610f7ef3c8dc8f13d596151cefa01db0e014b6e04921f319a2852e8a6a5f54b1",
+  "update_time": "2025-05-01T06:34:02.023Z"
+}

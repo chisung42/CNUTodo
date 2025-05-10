@@ -1,0 +1,48 @@
+{
+  "todo_list": [
+    {
+      "course_nm": "취업과 창업",
+      "due_date": "20250414235900",
+      "item_title_temp": "6-1주차_매력적인 PT 다이어트: 3의 원칙",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "취업과 창업",
+      "due_date": "20250414235900",
+      "item_title_temp": "6-2주차_매력적인 PT 다이어트의 노하우",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "현대인의 독서치료",
+      "due_date": "20250413235900",
+      "item_title_temp": "독서치료와 1",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "현대인의 독서치료",
+      "due_date": "20250413235900",
+      "item_title_temp": "독서치료와 시2",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "현대인의 독서치료",
+      "due_date": "20250413235900",
+      "item_title_temp": "독서치료와 시3",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "취업과 창업",
+      "due_date": "20250413235900",
+      "item_title_temp": "과제 2: 취업성공을 위한 필수조건과 충분조건에 대한 평가와 목표 ",
+      "type": "과제"
+    },
+    {
+      "course_nm": "취업과 창업",
+      "due_date": "20250413235900",
+      "item_title_temp": "과제 1: 자기분석에 기초한 나만의 대학생활 목표와 계획",
+      "type": "과제"
+    }
+  ],
+  "user_no": "b4bb34dd0bbecc4b01da2c0c293f41046a93fdeb1185c4f34a0e1a8b463403d6",
+  "update_time": "2025-04-07T15:52:57.064Z"
+}

@@ -1,0 +1,138 @@
+{
+  "todo_list": [
+    {
+      "course_nm": "성인지교육1",
+      "due_date": "20250620235900",
+      "item_title_temp": "인권과 성평등 교육",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "성인지교육1",
+      "due_date": "20250620235900",
+      "item_title_temp": "성희롱 예방교육 1",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "성인지교육1",
+      "due_date": "20250620235900",
+      "item_title_temp": "성희롱 예방교육 2",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "성인지교육1",
+      "due_date": "20250620235900",
+      "item_title_temp": "성폭력 예방교육 1",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "성인지교육1",
+      "due_date": "20250620235900",
+      "item_title_temp": "성폭력 예방교육 2",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "성인지교육1",
+      "due_date": "20250620235900",
+      "item_title_temp": "가정폭력 예방교육 1",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "성인지교육1",
+      "due_date": "20250620235900",
+      "item_title_temp": "가정폭력 예방교육 2",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "성인지교육1",
+      "due_date": "20250620235900",
+      "item_title_temp": "데이트폭력 예방교육 1",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "성인지교육1",
+      "due_date": "20250620235900",
+      "item_title_temp": "데이트폭력 예방교육 2",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "컴퓨터과학적사고",
+      "due_date": "20250331180000",
+      "item_title_temp": "zoom 동영상",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "컴퓨터과학적사고",
+      "due_date": "20250331235900",
+      "item_title_temp": "[이론] 4.컴퓨팅사고 단계 - 추상화와 알고리즘(1)",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "컴퓨터과학적사고",
+      "due_date": "20250331235900",
+      "item_title_temp": "[이론] 4. 컴퓨팅사고 단계 - 추상화와 알고리즘(2)",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "대학글쓰기",
+      "due_date": "20250630235900",
+      "item_title_temp": "3주차 글쓰기의 절차",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "컴퓨터과학적사고",
+      "due_date": "20250326235900",
+      "item_title_temp": "[이론강의노트]03. 컴퓨팅사고 단계 -  문제분해와 패턴인식",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "컴퓨터과학적사고",
+      "due_date": "20250331180000",
+      "item_title_temp": "[LAB03] 파이썬 기본 구성요소(2)",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "화학개론",
+      "due_date": "20250620235900",
+      "item_title_temp": "화학개론 강의자료1",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "화학개론",
+      "due_date": "20250620235900",
+      "item_title_temp": "화학개론 강의자료4",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "교육자료의 이해",
+      "due_date": "20250325235900",
+      "item_title_temp": "3월 19일 과제",
+      "type": "과제"
+    },
+    {
+      "course_nm": "대학글쓰기",
+      "due_date": "20250329235900",
+      "item_title_temp": "교재 41-42",
+      "type": "과제"
+    },
+    {
+      "course_nm": "컴퓨터과학적사고",
+      "due_date": "20250622235900",
+      "item_title_temp": "[과제2] SW/AI 행사 참여 과제(2)",
+      "type": "과제"
+    },
+    {
+      "course_nm": "컴퓨터과학적사고",
+      "due_date": "20250622235900",
+      "item_title_temp": "[과제1] SW/AI 행사 참여 과제(1)",
+      "type": "과제"
+    },
+    {
+      "course_nm": "화학개론",
+      "due_date": "20250331235900",
+      "item_title_temp": "화학개론 과제3",
+      "type": "과제"
+    }
+  ],
+  "user_no": "d06e17759759901e142261a83ddb35d4e3ecf6080f08c6d200fbe0a229f1f480",
+  "update_time": "2025-03-25T12:18:34.385Z"
+}

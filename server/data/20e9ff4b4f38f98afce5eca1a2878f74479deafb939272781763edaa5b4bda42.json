@@ -1,0 +1,48 @@
+{
+  "todo_list": [
+    {
+      "course_nm": "응용유체역학",
+      "due_date": "20250514235900",
+      "info": "20250514235900",
+      "item_title_temp": "0509 동영상수업",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "CAD기초",
+      "due_date": "20250512235900",
+      "info": "20250512235900",
+      "item_title_temp": "설계 구성 요소",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "구조 및 제어실험",
+      "due_date": "20250518235900",
+      "info": "20250516125900",
+      "item_title_temp": "[7주차] 실험보고서 제출",
+      "type": "과제"
+    },
+    {
+      "course_nm": "취업과 창업",
+      "due_date": "20250516235900",
+      "info": "20250516235900",
+      "item_title_temp": "중간고사 과제 진로활동 체험 보고서",
+      "type": "과제"
+    },
+    {
+      "course_nm": "취업과 창업",
+      "due_date": "20250606235900",
+      "info": "20250606235900",
+      "item_title_temp": "취업과 창업 기말고사 과제",
+      "type": "과제"
+    },
+    {
+      "course_nm": "CAD기초",
+      "due_date": "202505132359",
+      "info": "20250513235900",
+      "item_title_temp": "설계 구성 요소",
+      "type": "팀프로젝트"
+    }
+  ],
+  "user_no": "20e9ff4b4f38f98afce5eca1a2878f74479deafb939272781763edaa5b4bda42",
+  "update_time": "2025-05-08T18:15:45.834Z"
+}

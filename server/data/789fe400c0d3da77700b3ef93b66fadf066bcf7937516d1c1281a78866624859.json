@@ -1,0 +1,48 @@
+{
+  "todo_list": [
+    {
+      "course_nm": "비즈니스경영이론",
+      "due_date": "20250406235900",
+      "item_title_temp": "마케팅의 주요 개념과 이론_Part 01",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "비즈니스경영이론",
+      "due_date": "20250406235900",
+      "item_title_temp": " 마케팅의 주요 개념과 이론_Part 02",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "비즈니스경영이론",
+      "due_date": "20250406235900",
+      "item_title_temp": " 마케팅의 주요 개념과 이론_Part 03",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "패션리테일링",
+      "due_date": "20250402235900",
+      "item_title_temp": "[0331] 개별학습: 영상",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "패션리테일링",
+      "due_date": "20250402235900",
+      "item_title_temp": "[0331] 개별학습: 퀴즈",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "비즈니스경영이론",
+      "due_date": "20250406235900",
+      "item_title_temp": "마케팅의 주요 개념과 이론 강의교안",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "비즈니스경영이론",
+      "due_date": "20250406235900",
+      "item_title_temp": "(5주차 과제) 마케팅 사례조사",
+      "type": "과제"
+    }
+  ],
+  "user_no": "789fe400c0d3da77700b3ef93b66fadf066bcf7937516d1c1281a78866624859",
+  "update_time": "2025-03-30T23:40:31.568Z"
+}

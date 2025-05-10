@@ -1,0 +1,97 @@
+{
+  "todo_list": [
+    {
+      "course_nm": "논리회로",
+      "due_date": "20250511235900",
+      "info": "20250511235900",
+      "item_title_temp": "12.3 Binary Counters",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "논리회로",
+      "due_date": "20250511235900",
+      "info": "20250511235900",
+      "item_title_temp": "12.1 Accumulator",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "논리회로",
+      "due_date": "20250511235900",
+      "info": "20250511235900",
+      "item_title_temp": "12.4 Other Counters",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "논리회로",
+      "due_date": "20250511235900",
+      "info": "20250511235900",
+      "item_title_temp": "12.3 Binary Up & Down Counter",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "알고리즘응용",
+      "due_date": "20250509235900",
+      "info": "20250509235900",
+      "item_title_temp": "10주차 강의 영상 (2/2)",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "알고리즘응용",
+      "due_date": "20250509235900",
+      "info": "20250509235900",
+      "item_title_temp": "10주차 강의 영상 (1/2)",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "알고리즘응용",
+      "due_date": "20250511235900",
+      "info": "20250511235900",
+      "item_title_temp": "Chap 9",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "확률 및 통계",
+      "due_date": "20250511235900",
+      "info": "20250511235900",
+      "item_title_temp": "lec 10",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "계산이론",
+      "due_date": "20250514235900",
+      "info": "20250514235900",
+      "item_title_temp": "[과제1] 5장 연습문제 풀기",
+      "type": "과제"
+    },
+    {
+      "course_nm": "기초프로젝트랩",
+      "due_date": "20250520235900",
+      "info": "20250520235900",
+      "item_title_temp": "firebase 구성 후 database app 화면 캡쳐 - 학번 기입",
+      "type": "과제"
+    },
+    {
+      "course_nm": "논리회로",
+      "due_date": "20250520130000",
+      "info": "20250513130000",
+      "item_title_temp": "Homework #5",
+      "type": "과제"
+    },
+    {
+      "course_nm": "알고리즘응용",
+      "due_date": "20250510235900",
+      "info": "20250510235900",
+      "item_title_temp": "Chap 9",
+      "type": "과제"
+    },
+    {
+      "course_nm": "자료구조",
+      "due_date": "20250515235900",
+      "info": "20250515235900",
+      "item_title_temp": "(10주차_실습_03분반) 배열을 이용한 트리",
+      "type": "과제"
+    }
+  ],
+  "user_no": "eed0ab166563ec1e3b16d1d902c1de02eff34693599b2402ad201695e751677e",
+  "update_time": "2025-05-09T06:56:51.306Z"
+}

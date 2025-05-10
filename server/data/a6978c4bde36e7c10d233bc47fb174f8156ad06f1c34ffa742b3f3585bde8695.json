@@ -1,0 +1,36 @@
+{
+  "todo_list": [
+    {
+      "course_nm": "인공지능과 미래사회",
+      "due_date": "20250511235900",
+      "item_title_temp": "10주 1회차",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "인공지능과 미래사회",
+      "due_date": "20250511235900",
+      "item_title_temp": " 10주 2회차",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "인공지능과 미래사회",
+      "due_date": "20250511235900",
+      "item_title_temp": "10주 3회차",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "영화와문학",
+      "due_date": "20250513235900",
+      "item_title_temp": "영화 &lt;퍼펙트 데이즈&gt; 감상하고 토론 주제 만들기",
+      "type": "토론"
+    },
+    {
+      "course_nm": "창의융합세미나1",
+      "due_date": "20250508235900",
+      "item_title_temp": "9주차 과제 제출",
+      "type": "과제"
+    }
+  ],
+  "user_no": "a6978c4bde36e7c10d233bc47fb174f8156ad06f1c34ffa742b3f3585bde8695",
+  "update_time": "2025-05-07T23:32:03.337Z"
+}

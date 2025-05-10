@@ -1,0 +1,125 @@
+{
+  "todo_list": [
+    {
+      "course_nm": "투자분석",
+      "due_date": "20250611235900",
+      "info": "20250611235900",
+      "item_title_temp": "Lec 9-1 효율적시장",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "투자분석",
+      "due_date": "20250611235900",
+      "info": "20250611235900",
+      "item_title_temp": "Lec 9-2 효율적시장",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "투자분석",
+      "due_date": "20250611235900",
+      "info": "20250611235900",
+      "item_title_temp": "Lec10 행동재무학",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "투자분석",
+      "due_date": "20250611235900",
+      "info": "20250611235900",
+      "item_title_temp": "R코드: MV_analysis_shortsale",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "투자분석",
+      "due_date": "20250611235900",
+      "info": "20250611235900",
+      "item_title_temp": "Lec08_CAPM and APT",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "투자분석",
+      "due_date": "20250611235900",
+      "info": "20250611235900",
+      "item_title_temp": "R코드: CAPM and APT",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "투자분석",
+      "due_date": "20250611235900",
+      "info": "20250611235900",
+      "item_title_temp": "Lec09_효율적시장",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "투자분석",
+      "due_date": "20250611235900",
+      "info": "20250611235900",
+      "item_title_temp": "Lec10_행동재무학",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "정부회계",
+      "due_date": "20250507235900",
+      "info": "20250507235900",
+      "item_title_temp": "5월 1일 보강과제",
+      "type": "과제"
+    },
+    {
+      "course_nm": "투자분석",
+      "due_date": "20250611235900",
+      "info": "20250611235900",
+      "item_title_temp": "DataGuide를 활용한 수익률 데이터 추출",
+      "type": "과제"
+    },
+    {
+      "course_nm": "투자분석",
+      "due_date": "20250611235900",
+      "info": "20250611235900",
+      "item_title_temp": "R &R studio 설치하기 (스스로 해보기. 제출 필요X)",
+      "type": "과제"
+    },
+    {
+      "course_nm": "투자분석",
+      "due_date": "20250611235900",
+      "info": "20250611235900",
+      "item_title_temp": "R 패키지 설치 (스스로 해보기. 제출 필요X)",
+      "type": "과제"
+    },
+    {
+      "course_nm": "투자분석",
+      "due_date": "20250611235900",
+      "info": "20250611235900",
+      "item_title_temp": "토빈의 분리 정리(Tobin's separation theorem)",
+      "type": "과제"
+    },
+    {
+      "course_nm": "투자분석",
+      "due_date": "20250611235900",
+      "info": "20250611235900",
+      "item_title_temp": "재무비율 산출 ",
+      "type": "과제"
+    },
+    {
+      "course_nm": "투자분석",
+      "due_date": "20250611235900",
+      "info": "20250611235900",
+      "item_title_temp": "Optimal Risky Portfolio graph",
+      "type": "과제"
+    },
+    {
+      "course_nm": "투자분석",
+      "due_date": "20250611235900",
+      "info": "20250611235900",
+      "item_title_temp": "공매도",
+      "type": "과제"
+    },
+    {
+      "course_nm": "투자분석",
+      "due_date": "20250611235900",
+      "info": "20250611235900",
+      "item_title_temp": "CAPM 증권특성선(SCL)",
+      "type": "과제"
+    }
+  ],
+  "user_no": "5e03bcab037192bdfb38a90c20bfe680f22db8735aa6bc73f420bc2853c4d3cf",
+  "update_time": "2025-05-06T05:14:42.014Z"
+}

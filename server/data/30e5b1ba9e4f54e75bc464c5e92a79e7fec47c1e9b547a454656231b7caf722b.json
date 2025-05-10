@@ -1,0 +1,111 @@
+{
+  "todo_list": [
+    {
+      "course_nm": "글로벌마케팅",
+      "due_date": "20250509235900",
+      "info": "20250509235900",
+      "item_title_temp": "글로벌마케팅의 정치적 환경 ",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "글로벌마케팅",
+      "due_date": "20250511235900",
+      "info": "20250511235900",
+      "item_title_temp": "글로벌 마케팅 조사 및 전략 기획 2",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "글로벌마케팅",
+      "due_date": "20250511235900",
+      "info": "20250511235900",
+      "item_title_temp": "글로벌 마케팅 조사 및 전략 기획 1",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "글로벌마케팅",
+      "due_date": "20250620235900",
+      "info": "20250620235900",
+      "item_title_temp": "글로벌마케팅 전략 1",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "글로벌마케팅",
+      "due_date": "20250620235900",
+      "info": "20250620235900",
+      "item_title_temp": "글로벌마케팅 전략 2",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "글로벌마케팅",
+      "due_date": "20250620235900",
+      "info": "20250620235900",
+      "item_title_temp": "글로벌 시장 세분화, 표적시장 선정 및 포지셔닝 1",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "글로벌마케팅",
+      "due_date": "20250620235900",
+      "info": "20250620235900",
+      "item_title_temp": "글로벌 시장 세분화, 표적시장 선정 및 포지셔닝 2",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "금융시장론",
+      "due_date": "20250511235900",
+      "info": "20250511235900",
+      "item_title_temp": "Lecture 1: The Stock Market ",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "금융시장론",
+      "due_date": "20250511235900",
+      "info": "20250511235900",
+      "item_title_temp": "Lecture 2: The Stock Market ",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "금융시장론",
+      "due_date": "20250511235900",
+      "info": "20250511235900",
+      "item_title_temp": "Lecture 3: The Stock Market",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "중급회계 1",
+      "due_date": "20250507235900",
+      "info": "20250507235900",
+      "item_title_temp": "7장재고자산1",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "중급회계 1",
+      "due_date": "20250509235900",
+      "info": "20250509235900",
+      "item_title_temp": "7장재고자산2",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "금융시장론",
+      "due_date": "20250511235900",
+      "info": "20250511235900",
+      "item_title_temp": "Assignment 3: IPO Underpricing – Case and Analysis ",
+      "type": "토론"
+    },
+    {
+      "course_nm": "금융시장론",
+      "due_date": "20250511235900",
+      "info": "20250511235900",
+      "item_title_temp": "IMF Growth Downgrade and Stock Market Reaction",
+      "type": "토론"
+    },
+    {
+      "course_nm": "글로벌마케팅",
+      "due_date": "20250516235900",
+      "info": "20250516235900",
+      "item_title_temp": "(가상 과제) 중간고사 성적 공지용 ",
+      "type": "과제"
+    }
+  ],
+  "user_no": "30e5b1ba9e4f54e75bc464c5e92a79e7fec47c1e9b547a454656231b7caf722b",
+  "update_time": "2025-05-06T10:49:27.967Z"
+}

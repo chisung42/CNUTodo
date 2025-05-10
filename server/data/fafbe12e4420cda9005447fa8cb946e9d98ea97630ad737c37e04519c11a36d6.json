@@ -1,0 +1,104 @@
+{
+  "todo_list": [
+    {
+      "course_nm": "유기화학1",
+      "due_date": "20250621235900",
+      "info": "20250621235900",
+      "item_title_temp": "Chapter 1-1",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "유기화학1",
+      "due_date": "20250621235900",
+      "info": "20250621235900",
+      "item_title_temp": "Chapter 1-3",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "유기화학1",
+      "due_date": "20250621235900",
+      "info": "20250621235900",
+      "item_title_temp": "Chapter 4-1",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "유기화학1",
+      "due_date": "20250621235900",
+      "info": "20250621235900",
+      "item_title_temp": "Chapter 4-2",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "유기화학1",
+      "due_date": "20250621235900",
+      "info": "20250621235900",
+      "item_title_temp": "Chapter 7-2",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "유기화학1",
+      "due_date": "20250621235900",
+      "info": "20250621235900",
+      "item_title_temp": "Chapter 8-1",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "유기화학1",
+      "due_date": "20250621235900",
+      "info": "20250621235900",
+      "item_title_temp": "Chapter 8-2",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "유기화학1",
+      "due_date": "20250621235900",
+      "info": "20250621235900",
+      "item_title_temp": "Chapter 9-1",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "유기화학1",
+      "due_date": "20250621235900",
+      "info": "20250621235900",
+      "item_title_temp": "Chapter 9-2",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "유기화학1",
+      "due_date": "20250621235900",
+      "info": "20250621235900",
+      "item_title_temp": "Chapter 10",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "유기화학1",
+      "due_date": "20250621235900",
+      "info": "20250621235900",
+      "item_title_temp": "Chapter 11-1",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "유기화학1",
+      "due_date": "20250621235900",
+      "info": "20250621235900",
+      "item_title_temp": "Chapter 11-2",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "유기화학1",
+      "due_date": "20250621235900",
+      "info": "20250621235900",
+      "item_title_temp": "Chapter 11-3",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "공학수학",
+      "due_date": "20250510235900",
+      "info": "20250510235900",
+      "item_title_temp": "HW05",
+      "type": "과제"
+    }
+  ],
+  "user_no": "fafbe12e4420cda9005447fa8cb946e9d98ea97630ad737c37e04519c11a36d6",
+  "update_time": "2025-05-08T08:57:20.455Z"
+}

@@ -1,0 +1,19 @@
+{
+    "name": "pwa-project",
+    "version": "1.0.0",
+    "description": "iOS Safari용 PWA 예제 with Push 알림",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "axios": "^1.8.4",
+        "cheerio": "^1.0.0",
+        "express": "^4.18.2",
+        "node-cache": "^5.1.2",
+        "node-persist": "^4.0.4",
+        "node-schedule": "^2.1.1",
+        "sharp": "^0.33.5",
+        "web-push": "^3.4.4"
+    }
+}

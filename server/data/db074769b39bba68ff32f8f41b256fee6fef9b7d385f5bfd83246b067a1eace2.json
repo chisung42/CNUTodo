@@ -1,0 +1,24 @@
+{
+  "todo_list": [
+    {
+      "course_nm": "전기자기학1",
+      "due_date": "20250330235900",
+      "item_title_temp": "[강의록]  Chapter 03",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "전기자기학1",
+      "due_date": "20250331235900",
+      "item_title_temp": "[과제]  #02",
+      "type": "과제"
+    },
+    {
+      "course_nm": "통계분석입문",
+      "due_date": "20250330235900",
+      "item_title_temp": "4주차 과제",
+      "type": "과제"
+    }
+  ],
+  "user_no": "db074769b39bba68ff32f8f41b256fee6fef9b7d385f5bfd83246b067a1eace2",
+  "update_time": "2025-03-28T20:10:05.090Z"
+}
