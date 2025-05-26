@@ -172,6 +172,13 @@
       "course_nm": "컴퓨터프로그래밍3",
       "due_date": "20250630235900",
       "info": "20250630235900",
+      "item_title_temp": "10-2 다차원 배열과 함수 인자",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "컴퓨터프로그래밍3",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
       "item_title_temp": "9-3 배열의 포인터",
       "type": "콘텐츠"
     },
@@ -180,13 +187,6 @@
       "due_date": "20250630235900",
       "info": "20250630235900",
       "item_title_temp": "10-1 다차원 배열은 배열 포인터다",
-      "type": "콘텐츠"
-    },
-    {
-      "course_nm": "컴퓨터프로그래밍3",
-      "due_date": "20250630235900",
-      "info": "20250630235900",
-      "item_title_temp": "10-2 다차원 배열과 함수 인자",
       "type": "콘텐츠"
     },
     {
@@ -211,55 +211,62 @@
       "type": "콘텐츠"
     },
     {
-      "course_nm": "기초프로젝트랩",
-      "due_date": "20250511175900",
-      "info": "20250511175900",
-      "item_title_temp": "수업자료(API활용)",
-      "type": "자료실"
+      "course_nm": "컴퓨터프로그래밍3",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "12-3 typedef, union, enum",
+      "type": "콘텐츠"
     },
     {
-      "course_nm": "기초프로젝트랩",
-      "due_date": "20250520235900",
-      "info": "20250520235900",
-      "item_title_temp": "수업자료(Firebase-Database)",
-      "type": "자료실"
+      "course_nm": "컴퓨터프로그래밍3",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "12-2 구조체와 포인터",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "컴퓨터프로그래밍3",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "12-1 구조체 정의",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "컴퓨터프로그래밍3",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "12-4 구조체와 함수 인자",
+      "type": "콘텐츠"
     },
     {
       "course_nm": "확률 및 통계",
-      "due_date": "20250511235900",
-      "info": "20250511235900",
-      "item_title_temp": "lec 10",
+      "due_date": "20250525235900",
+      "info": "20250525235900",
+      "item_title_temp": "lec 12",
       "type": "자료실"
     },
     {
-      "course_nm": "기초프로젝트랩",
-      "due_date": "20250520235900",
-      "info": "20250520235900",
-      "item_title_temp": "firebase 구성 후 database app 화면 캡쳐 - 학번 기입",
+      "course_nm": "논리회로",
+      "due_date": "20250603170000",
+      "info": "20250527170000",
+      "item_title_temp": "Lab #7. Sequence Detector",
       "type": "과제"
     },
     {
       "course_nm": "논리회로",
-      "due_date": "20250519160000",
-      "info": "20250512160000",
-      "item_title_temp": "Homework #5",
-      "type": "과제"
-    },
-    {
-      "course_nm": "논리회로",
-      "due_date": "20250520150000",
-      "info": "20250513170000",
-      "item_title_temp": "Lab #5. 래치와 플립플롭 (5월 13일)",
+      "due_date": "20250609160000",
+      "info": "20250602160000",
+      "item_title_temp": "Homework #7",
       "type": "과제"
     },
     {
       "course_nm": "컴퓨터프로그래밍3",
-      "due_date": "20250514235900",
-      "info": "20250514235900",
-      "item_title_temp": "10주차 실습코드 제출",
+      "due_date": "20250528235900",
+      "info": "20250528235900",
+      "item_title_temp": "12주차 실습코드 제출",
       "type": "과제"
     }
   ],
   "user_no": "d8192ba38b6cec46af344e03a5fee7fdfec27ddfdfdd2f28417dff65ccf26858",
-  "update_time": "2025-05-09T17:03:30.215Z"
+  "update_time": "2025-05-24T09:34:42.403Z"
 }

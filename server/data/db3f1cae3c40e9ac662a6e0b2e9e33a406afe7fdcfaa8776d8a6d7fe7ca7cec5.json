@@ -1,54 +1,314 @@
 {
   "todo_list": [
     {
-      "course_nm": "인공지능과 미래사회",
-      "due_date": "20250428235900",
-      "item_title_temp": "[4-1] 미래사회의 메타버스와 인공지능 기술(3월24일 ~ 4월 28일까지 수강)",
+      "course_nm": "2025년 학생대상 폭력예방교육(English)",
+      "due_date": "20250531235900",
+      "info": "20250531235900",
+      "item_title_temp": "Sexual Harassment Prevention Education part 2",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "2025년 학생대상 폭력예방교육(English)",
+      "due_date": "20250531235900",
+      "info": "20250531235900",
+      "item_title_temp": "Sexual Violence Prevention Education part 2",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "2025년 학생대상 폭력예방교육(English)",
+      "due_date": "20250531235900",
+      "info": "20250531235900",
+      "item_title_temp": "Sexual Violence Prevention Education part 1",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "2025년 학생대상 폭력예방교육(English)",
+      "due_date": "20250531235900",
+      "info": "20250531235900",
+      "item_title_temp": "Sexual Harassment Prevention Education part 1",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "2025년 학생대상 폭력예방교육(English)",
+      "due_date": "20250531235900",
+      "info": "20250531235900",
+      "item_title_temp": "Dating Violence Prevention Education part 1",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "2025년 학생대상 폭력예방교육(English)",
+      "due_date": "20250531235900",
+      "info": "20250531235900",
+      "item_title_temp": "Dating Violence Prevention Education part 2",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "2025년 학생대상 폭력예방교육(English)",
+      "due_date": "20250531235900",
+      "info": "20250531235900",
+      "item_title_temp": "Domestic Violence Prevention Education part 2",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "2025년 학생대상 폭력예방교육(English)",
+      "due_date": "20250531235900",
+      "info": "20250531235900",
+      "item_title_temp": "Domestic Violence Prevention Education part 1",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "대학생활과 진로설계",
+      "due_date": "20250601235900",
+      "info": "20250601235900",
+      "item_title_temp": "동영상 시청 과제",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "대학생활과 진로설계",
+      "due_date": "20250601235900",
+      "info": "20250601235900",
+      "item_title_temp": "동영상 시청 과제",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "영미문화읽기:주제별",
+      "due_date": "20250526235900",
+      "info": "20250526235900",
+      "item_title_temp": "The Great Contradiction",
       "type": "콘텐츠"
     },
     {
       "course_nm": "인공지능과 미래사회",
-      "due_date": "20250428235900",
-      "item_title_temp": "[4-2] 미래사회의 바이오테크 및 바이오헬스케어(3월24일 ~ 4월 28일까지 수강)",
+      "due_date": "20250620235900",
+      "info": "20250620235900",
+      "item_title_temp": "[9-1] 프로젝트 활용을 위한 AI 도구 활용(4월28일~6월 20일 까지 수강)",
       "type": "콘텐츠"
     },
     {
       "course_nm": "인공지능과 미래사회",
-      "due_date": "20250428235900",
-      "item_title_temp": "[5-1] 인공지능과 윤리(3월31일 ~ 4월 28일까지 수강)",
+      "due_date": "20250620235900",
+      "info": "20250620235900",
+      "item_title_temp": "[9-2] 프로젝트 활용을 위한 AI 도구 활용(4월28일~6월 20일 까지 수강)",
       "type": "콘텐츠"
     },
     {
       "course_nm": "인공지능과 미래사회",
-      "due_date": "20250428235900",
-      "item_title_temp": "[6-1] 인공지능을 위한 기술 및 Chat GPT 활용인공지능과 윤리(4월7일 ~ 4월 28일까지 수강)",
+      "due_date": "20250618235900",
+      "info": "20250618235900",
+      "item_title_temp": "[9-6] 프로젝트 활용을 위한 AI 도구 활용(6월 18일 까지 수강)",
       "type": "콘텐츠"
     },
     {
       "course_nm": "인공지능과 미래사회",
-      "due_date": "20250428235900",
-      "item_title_temp": "[6-2] 인공지능 개발을 위한 미래 기술예측 - 기술로드맵(4월7일 ~ 4월 28일까지 수강)",
+      "due_date": "20250618235900",
+      "info": "20250618235900",
+      "item_title_temp": "[9-5] 프로젝트 활용을 위한 AI 도구 활용(6월 18일 까지 수강)",
       "type": "콘텐츠"
     },
     {
       "course_nm": "인공지능과 미래사회",
-      "due_date": "20250428235900",
-      "item_title_temp": "[7-1] 인공지능과 데이터 과학(4월14일 ~ 4월 28일까지 수강)",
+      "due_date": "20250618235900",
+      "info": "20250618235900",
+      "item_title_temp": "[9-4] 프로젝트 활용을 위한 AI 도구 활용(6월 18일 까지 수강)",
       "type": "콘텐츠"
     },
     {
       "course_nm": "인공지능과 미래사회",
-      "due_date": "20250428235900",
-      "item_title_temp": "[7-2] 인공지능과 데이터 활용1(4월14일 ~ 4월 28일까지 수강)",
+      "due_date": "20250618235900",
+      "info": "20250618235900",
+      "item_title_temp": "[9-3] 프로젝트 활용을 위한 AI 도구 활용(6월 18일 까지 수강)",
       "type": "콘텐츠"
     },
     {
       "course_nm": "인공지능과 미래사회",
-      "due_date": "20250428235900",
-      "item_title_temp": "[7-2] 인공지능과 데이터 활용2(4월14일 ~ 4월 28일까지 수강)",
+      "due_date": "20250620235900",
+      "info": "20250620235900",
+      "item_title_temp": "[10-1] 스스로 학습하는 머신러닝(5월5일~6월 20일 까지 수강)",
       "type": "콘텐츠"
+    },
+    {
+      "course_nm": "인공지능과 미래사회",
+      "due_date": "20250620235900",
+      "info": "20250620235900",
+      "item_title_temp": "[10-2] 인공지능 및 최신 기술 트렌드(5월5일~6월 20일 까지 수강)",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "인공지능과 미래사회",
+      "due_date": "20250618235900",
+      "info": "20250618235900",
+      "item_title_temp": "[11-1] 인공지능과 딥러닝(6월 18일 까지 수강)",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "인공지능과 미래사회",
+      "due_date": "20250618235900",
+      "info": "20250618235900",
+      "item_title_temp": "[11-2] 미래연구를 통한 인공지능 개발(6월 18일 까지 수강)",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "인공지능과 미래사회",
+      "due_date": "20250618235900",
+      "info": "20250618235900",
+      "item_title_temp": "[12-1] 순환 신경망과 적대적 생성 신경망 1(6월 18일까지 수강)",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "인공지능과 미래사회",
+      "due_date": "20250618235900",
+      "info": "20250618235900",
+      "item_title_temp": "[12-2] 순환 신경망과 적대적 생성 신경망 2(6월 18일까지 수강)",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "인공지능과 미래사회",
+      "due_date": "20250618235900",
+      "info": "20250618235900",
+      "item_title_temp": "[13-1] 인간과 겨루는 인공지능 - 강화학습 1(6월 18일까지 수강)",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "인공지능과 미래사회",
+      "due_date": "20250618235900",
+      "info": "20250618235900",
+      "item_title_temp": "[13-2] 인간과 겨루는 인공지능 - 강화학습 2(6월 18일까지 수강)",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "인공지능과 미래사회",
+      "due_date": "20250618235900",
+      "info": "20250618235900",
+      "item_title_temp": "[14-2] 인공지능 로봇과 미래 1(6월 18일까지 수강)",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "인공지능과 미래사회",
+      "due_date": "20250618235900",
+      "info": "20250618235900",
+      "item_title_temp": "[14-2] 인공지능 로봇과 미래 2(6월 28일까지 수강)",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "인공지능과 미래사회",
+      "due_date": "20250618200000",
+      "info": "20250618200000",
+      "item_title_temp": "지식플러스 특강(과제 대체 5점) - AI반도체",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "현대인의 생활문화",
+      "due_date": "20250601235900",
+      "info": "20250601235900",
+      "item_title_temp": "13 동양식생활매너",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "현대인의 생활문화",
+      "due_date": "20250601235900",
+      "info": "20250601235900",
+      "item_title_temp": "한중일 문화삼국지 - 최고의 밥상",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "현대인의 생활문화",
+      "due_date": "20250601235900",
+      "info": "20250601235900",
+      "item_title_temp": "한중일 문화삼국지 - 술  (출결미반영)",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "인문학적 사고와 논리",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "9주차 수업 자료(비판적 사고_사례. 저 너머 세계)",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "인문학적 사고와 논리",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "10주차 수업 자료 ",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "인문학적 사고와 논리",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "11주차 수업 자료 ",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "인문학적 사고와 논리",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "12주차 수업 자료 ",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "대학생활과 진로설계",
+      "due_date": "20250531235900",
+      "info": "20250531235900",
+      "item_title_temp": "1st 과제(폭력예방 통합교육)",
+      "type": "과제"
+    },
+    {
+      "course_nm": "대학생활과 진로설계",
+      "due_date": "20250531235900",
+      "info": "20250531235900",
+      "item_title_temp": "2nd 과제( 대학생을 위한 학습윤리 )",
+      "type": "과제"
+    },
+    {
+      "course_nm": "대학생활과 진로설계",
+      "due_date": "20250608235900",
+      "info": "20250606235900",
+      "item_title_temp": "4. 학과 선배 인터뷰 과제!",
+      "type": "과제"
+    },
+    {
+      "course_nm": "대학생활과 진로설계",
+      "due_date": "20250610235900",
+      "info": "20250606235900",
+      "item_title_temp": "3rd 과제(MBTI, STRONG)",
+      "type": "과제"
+    },
+    {
+      "course_nm": "대학생활과 진로설계",
+      "due_date": "20250610235900",
+      "info": "20250607235900",
+      "item_title_temp": "5. with.cnu.ac.kr 활용하여 마일리지 쌓기(수료증 2부제출)",
+      "type": "과제"
+    },
+    {
+      "course_nm": "영미문화읽기:주제별",
+      "due_date": "20250529235900",
+      "info": "20250529235900",
+      "item_title_temp": "Assignment 2 - An American Contradiction",
+      "type": "과제"
+    },
+    {
+      "course_nm": "인문학적 사고와 논리",
+      "due_date": "20250620235900",
+      "info": "20250620235900",
+      "item_title_temp": "심층 탐구 보고서 (6월 20일 금요일까지)",
+      "type": "과제"
+    },
+    {
+      "course_nm": "회계의이해",
+      "due_date": "20250526235900",
+      "info": "20250526235900",
+      "item_title_temp": "8장 숙제",
+      "type": "과제"
+    },
+    {
+      "course_nm": "회계의이해",
+      "due_date": "20250601235900",
+      "info": "20250601235900",
+      "item_title_temp": "9장 과제",
+      "type": "과제"
     }
   ],
   "user_no": "db3f1cae3c40e9ac662a6e0b2e9e33a406afe7fdcfaa8776d8a6d7fe7ca7cec5",
-  "update_time": "2025-04-27T07:10:18.145Z"
+  "update_time": "2025-05-25T16:34:52.234Z"
 }

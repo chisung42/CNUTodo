@@ -1,6 +1,13 @@
 {
   "todo_list": [
     {
+      "course_nm": "공학윤리",
+      "due_date": "20250527235900",
+      "info": "20250527235900",
+      "item_title_temp": "09강 사이버윤리",
+      "type": "콘텐츠"
+    },
+    {
       "course_nm": "미적분학1",
       "due_date": "20250620235900",
       "info": "20250620235900",
@@ -25,14 +32,14 @@
       "course_nm": "미적분학1",
       "due_date": "20250620235900",
       "info": "20250620235900",
-      "item_title_temp": "수학 1 - 3주 1회차 동영상입니다. ",
+      "item_title_temp": "수학 1 - 2주 2회차 동영상입니다.",
       "type": "콘텐츠"
     },
     {
       "course_nm": "미적분학1",
       "due_date": "20250620235900",
       "info": "20250620235900",
-      "item_title_temp": "수학 1 - 2주 2회차 동영상입니다.",
+      "item_title_temp": "수학 1 - 3주 1회차 동영상입니다. ",
       "type": "콘텐츠"
     },
     {
@@ -162,10 +169,52 @@
       "type": "콘텐츠"
     },
     {
-      "course_nm": "화학 1",
-      "due_date": "20250630235900",
-      "info": "20250630235900",
-      "item_title_temp": "표준생성엔탈피1",
+      "course_nm": "미적분학1",
+      "due_date": "20250620235900",
+      "info": "20250620235900",
+      "item_title_temp": "수학 1 - 12주 2회차 동영상입니다. ",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "미적분학1",
+      "due_date": "20250620235900",
+      "info": "20250620235900",
+      "item_title_temp": "수학 1 - 13주 1회차 동영상입니다. ",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "미적분학1",
+      "due_date": "20250620235900",
+      "info": "20250620235900",
+      "item_title_temp": "수학 1 - 13주 2회차 동영상입니다. ",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "미적분학1",
+      "due_date": "20250620235900",
+      "info": "20250620235900",
+      "item_title_temp": "수학 1 -14주 1회차 동영상입니다. ",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "창의설계입문",
+      "due_date": "20250625235900",
+      "info": "20250625235900",
+      "item_title_temp": "3d max",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "창의설계입문",
+      "due_date": "20250625235900",
+      "info": "20250625235900",
+      "item_title_temp": "3d 프린트 사용법",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "창의설계입문",
+      "due_date": "20250625235900",
+      "info": "20250625235900",
+      "item_title_temp": "3d 프린트 사용법",
       "type": "콘텐츠"
     },
     {
@@ -218,25 +267,67 @@
       "type": "콘텐츠"
     },
     {
-      "course_nm": "기초대학수학",
-      "due_date": "20250514235900",
-      "info": "20250514235900",
-      "item_title_temp": "9주 1 회차  강의 자료",
-      "type": "자료실"
+      "course_nm": "화학 1",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "chapter8-1",
+      "type": "콘텐츠"
     },
     {
-      "course_nm": "기초대학수학",
-      "due_date": "20250514235900",
-      "info": "20250514235900",
-      "item_title_temp": "9주 2 회차  강의 자료",
-      "type": "자료실"
+      "course_nm": "화학 1",
+      "due_date": "20250702235900",
+      "info": "20250702235900",
+      "item_title_temp": "chapter8-2",
+      "type": "콘텐츠"
     },
     {
-      "course_nm": "기초대학수학",
-      "due_date": "20250514235900",
-      "info": "20250514235900",
-      "item_title_temp": "10주 1 회차  강의 자료",
-      "type": "자료실"
+      "course_nm": "화학 1",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "chapter8-3",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "화학 1",
+      "due_date": "20250702235900",
+      "info": "20250702235900",
+      "item_title_temp": "chapter8-4",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "화학 1",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "chapter8-5",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "화학 1",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "chapter8-6",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "화학 1",
+      "due_date": "20250620235900",
+      "info": "20250620235900",
+      "item_title_temp": "chapter9-1",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "화학 1",
+      "due_date": "20250620235900",
+      "info": "20250620235900",
+      "item_title_temp": "chapter9-2",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "화학 1",
+      "due_date": "20250620235900",
+      "info": "20250620235900",
+      "item_title_temp": "chapter9-3",
+      "type": "콘텐츠"
     },
     {
       "course_nm": "미적분학1",
@@ -312,7 +403,14 @@
       "course_nm": "미적분학1",
       "due_date": "20250620235900",
       "info": "20250620235900",
-      "item_title_temp": "10주 2 회차  강의 자료",
+      "item_title_temp": "12주 1 회차  강의 자료",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "미적분학1",
+      "due_date": "20250620235900",
+      "info": "20250620235900",
+      "item_title_temp": "12주 2 회차  강의 자료",
       "type": "자료실"
     },
     {
@@ -323,13 +421,20 @@
       "type": "자료실"
     },
     {
-      "course_nm": "공학윤리",
-      "due_date": "20250511235900",
-      "info": "20250511235900",
-      "item_title_temp": "중간고사 대체 과제 1",
-      "type": "과제"
+      "course_nm": "화학 1",
+      "due_date": "20250702235900",
+      "info": "20250702235900",
+      "item_title_temp": "chapter8 노트",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "화학 1",
+      "due_date": "20250622235900",
+      "info": "20250622235900",
+      "item_title_temp": "chapter9 노트",
+      "type": "자료실"
     }
   ],
   "user_no": "40cd8168e3cced35d22f6c21e9748ebd9d0fe560bee7ed53ca40deeaefce7721",
-  "update_time": "2025-05-06T06:59:27.525Z"
+  "update_time": "2025-05-25T07:49:50.920Z"
 }

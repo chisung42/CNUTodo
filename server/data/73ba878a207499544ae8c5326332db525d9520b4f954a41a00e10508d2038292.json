@@ -1,6 +1,13 @@
 {
   "todo_list": [
     {
+      "course_nm": "교육방법및교육공학",
+      "due_date": "20250601235900",
+      "info": "20250601235900",
+      "item_title_temp": "제4장 교수-학습 방법의 유형과 특성 5(자원기반학습)",
+      "type": "콘텐츠"
+    },
+    {
       "course_nm": "멀티미디어 영어교육",
       "due_date": "20250630235900",
       "info": "20250630235900",
@@ -19,55 +26,6 @@
       "due_date": "20250630235900",
       "info": "20250630235900",
       "item_title_temp": "Warm-up Questions etc",
-      "type": "콘텐츠"
-    },
-    {
-      "course_nm": "멀티미디어 영어교육",
-      "due_date": "20250511235900",
-      "info": "20250511235900",
-      "item_title_temp": "CALL Design and Evaluation (Part 1)",
-      "type": "콘텐츠"
-    },
-    {
-      "course_nm": "멀티미디어 영어교육",
-      "due_date": "20250511235900",
-      "info": "20250511235900",
-      "item_title_temp": "CALL Design and Evaluation (Part 2)",
-      "type": "콘텐츠"
-    },
-    {
-      "course_nm": "멀티미디어 영어교육",
-      "due_date": "20250511235900",
-      "info": "20250511235900",
-      "item_title_temp": "학교에 등장한 인공지능 (Part 1)",
-      "type": "콘텐츠"
-    },
-    {
-      "course_nm": "멀티미디어 영어교육",
-      "due_date": "20250518235500",
-      "info": "20250518235500",
-      "item_title_temp": "학교에 등장한 인공지능 (Part 2)",
-      "type": "콘텐츠"
-    },
-    {
-      "course_nm": "멀티미디어 영어교육",
-      "due_date": "20250518235500",
-      "info": "20250518235500",
-      "item_title_temp": "학교에 등장한 인공지능 (Part3)",
-      "type": "콘텐츠"
-    },
-    {
-      "course_nm": "멀티미디어 영어교육",
-      "due_date": "20250525235500",
-      "info": "20250525235500",
-      "item_title_temp": "우리나라 초•중•고 영어교육의 문제점과 대책 (Part1)",
-      "type": "콘텐츠"
-    },
-    {
-      "course_nm": "멀티미디어 영어교육",
-      "due_date": "20250525235500",
-      "info": "20250525235500",
-      "item_title_temp": "우리나라 초•중•고 영어교육의 문제점과 대책 (Part2)",
       "type": "콘텐츠"
     },
     {
@@ -149,27 +107,6 @@
     },
     {
       "course_nm": "멀티미디어 영어교육",
-      "due_date": "20250511235900",
-      "info": "20250511235900",
-      "item_title_temp": "CALL Design and Evaluation (Part 2): A follow-up activity",
-      "type": "토론"
-    },
-    {
-      "course_nm": "멀티미디어 영어교육",
-      "due_date": "20250511235900",
-      "info": "20250511235900",
-      "item_title_temp": "Multimedia CALL Design & Evaluation: Warm-up questions",
-      "type": "토론"
-    },
-    {
-      "course_nm": "멀티미디어 영어교육",
-      "due_date": "20250525235500",
-      "info": "20250525235500",
-      "item_title_temp": "우리나라 초•중•고 영어교육의 \u000b제 문제점과 그 대책 (Part 1): Follow-up Discussion Questions",
-      "type": "토론"
-    },
-    {
-      "course_nm": "멀티미디어 영어교육",
       "due_date": "20250602235900",
       "info": "20250602235900",
       "item_title_temp": "인공지능 기반 영어 말하기\u000b자동 평가 시스템 (Part 1): A follow-up scoring activity ",
@@ -184,37 +121,9 @@
     },
     {
       "course_nm": "멀티미디어 영어교육",
-      "due_date": "20250511235900",
-      "info": "20250511235900",
-      "item_title_temp": "Multimedia CALL Design & Evaluation (Part 1)",
-      "type": "자료실"
-    },
-    {
-      "course_nm": "멀티미디어 영어교육",
       "due_date": "20250604090000",
       "info": "20250604090000",
       "item_title_temp": "CALL 프로그램 활용 수업 Reflection ",
-      "type": "과제"
-    },
-    {
-      "course_nm": "영어구조의이해",
-      "due_date": "20250510180000",
-      "info": "20250510180000",
-      "item_title_temp": "Unit 9 동사 시제 - 퀴즈 풀어 올리기",
-      "type": "과제"
-    },
-    {
-      "course_nm": "영어구조의이해",
-      "due_date": "20250517180000",
-      "info": "20250517180000",
-      "item_title_temp": "Unit 10 부정 및 전치사 - 퀴즈 풀어 올리기",
-      "type": "과제"
-    },
-    {
-      "course_nm": "영어구조의이해",
-      "due_date": "20250524180000",
-      "info": "20250524180000",
-      "item_title_temp": "Unit 11 수동태 및 중간태 - 퀴즈 풀어 올리기",
       "type": "과제"
     },
     {
@@ -254,5 +163,5 @@
     }
   ],
   "user_no": "73ba878a207499544ae8c5326332db525d9520b4f954a41a00e10508d2038292",
-  "update_time": "2025-05-07T20:53:03.188Z"
+  "update_time": "2025-05-26T02:12:21.419Z"
 }

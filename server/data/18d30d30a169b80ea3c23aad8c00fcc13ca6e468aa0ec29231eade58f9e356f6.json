@@ -1,27 +1,13 @@
 {
   "todo_list": [
     {
-      "course_nm": "일반화학 1",
-      "due_date": "20250511235900",
-      "info": "20250511235900",
-      "item_title_temp": "[5/5보강] 5장 문제풀이2",
-      "type": "콘텐츠"
-    },
-    {
-      "course_nm": "일반생물학 1",
-      "due_date": "20250511235900",
-      "info": "20250511235900",
-      "item_title_temp": "Chapter 8. The cellular basis of reproduction and inheritance",
-      "type": "자료실"
-    },
-    {
       "course_nm": "행복한 삶과 철학",
-      "due_date": "20250518235900",
-      "info": "20250518235900",
-      "item_title_temp": "10주차 활동-사진",
+      "due_date": "20250606235900",
+      "info": "20250606235900",
+      "item_title_temp": "학기말 포트폴리오 제출",
       "type": "과제"
     }
   ],
   "user_no": "18d30d30a169b80ea3c23aad8c00fcc13ca6e468aa0ec29231eade58f9e356f6",
-  "update_time": "2025-05-09T08:31:32.602Z"
+  "update_time": "2025-05-25T14:10:56.556Z"
 }

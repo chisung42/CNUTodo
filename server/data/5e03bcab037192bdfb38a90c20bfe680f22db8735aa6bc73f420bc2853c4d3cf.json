@@ -4,13 +4,6 @@
       "course_nm": "투자분석",
       "due_date": "20250611235900",
       "info": "20250611235900",
-      "item_title_temp": "Lec 9-1 효율적시장",
-      "type": "콘텐츠"
-    },
-    {
-      "course_nm": "투자분석",
-      "due_date": "20250611235900",
-      "info": "20250611235900",
       "item_title_temp": "Lec 9-2 효율적시장",
       "type": "콘텐츠"
     },
@@ -19,6 +12,27 @@
       "due_date": "20250611235900",
       "info": "20250611235900",
       "item_title_temp": "Lec10 행동재무학",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "투자분석",
+      "due_date": "20250611235900",
+      "info": "20250611235900",
+      "item_title_temp": "Lec11-1 파생상품 ",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "투자분석",
+      "due_date": "20250611235900",
+      "info": "20250611235900",
+      "item_title_temp": "Lec11-2 파생상품 ",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "투자분석",
+      "due_date": "20250611235900",
+      "info": "20250611235900",
+      "item_title_temp": "Lec12-1 펀드",
       "type": "콘텐츠"
     },
     {
@@ -57,11 +71,18 @@
       "type": "자료실"
     },
     {
-      "course_nm": "정부회계",
-      "due_date": "20250507235900",
-      "info": "20250507235900",
-      "item_title_temp": "5월 1일 보강과제",
-      "type": "과제"
+      "course_nm": "투자분석",
+      "due_date": "20250611235900",
+      "info": "20250611235900",
+      "item_title_temp": "Lec11_파생상품",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "투자분석",
+      "due_date": "20250611235900",
+      "info": "20250611235900",
+      "item_title_temp": "Lec12_펀드",
+      "type": "자료실"
     },
     {
       "course_nm": "투자분석",
@@ -118,8 +139,29 @@
       "info": "20250611235900",
       "item_title_temp": "CAPM 증권특성선(SCL)",
       "type": "과제"
+    },
+    {
+      "course_nm": "투자분석",
+      "due_date": "20250611235900",
+      "info": "20250611235900",
+      "item_title_temp": "게임스탑 주가 폭등 사건",
+      "type": "과제"
+    },
+    {
+      "course_nm": "투자분석",
+      "due_date": "20250611235900",
+      "info": "20250611235900",
+      "item_title_temp": "선물, 선도, 스왑, 옵션",
+      "type": "과제"
+    },
+    {
+      "course_nm": "정부회계",
+      "due_date": "20250526235959",
+      "info": "20250526235959",
+      "item_title_temp": "CH 9~10 퀴즈",
+      "type": "퀴즈"
     }
   ],
   "user_no": "5e03bcab037192bdfb38a90c20bfe680f22db8735aa6bc73f420bc2853c4d3cf",
-  "update_time": "2025-05-06T05:14:42.014Z"
+  "update_time": "2025-05-25T07:33:55.749Z"
 }

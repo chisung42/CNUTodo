@@ -1,27 +1,6 @@
 {
   "todo_list": [
     {
-      "course_nm": "서비스마케팅",
-      "due_date": "20250511235900",
-      "info": "20250511235900",
-      "item_title_temp": "SM7_서비스촉진관리 Part. 1",
-      "type": "콘텐츠"
-    },
-    {
-      "course_nm": "서비스마케팅",
-      "due_date": "20250511235900",
-      "info": "20250511235900",
-      "item_title_temp": " SM7_서비스촉진관리 Part. 2",
-      "type": "콘텐츠"
-    },
-    {
-      "course_nm": "노사관계론",
-      "due_date": "20250514235900",
-      "info": "20250514235900",
-      "item_title_temp": "5/8 팀플: 인터뷰 대상자 리스트업",
-      "type": "과제"
-    },
-    {
       "course_nm": "노사관계론",
       "due_date": "20250529235900",
       "info": "20250529235900",
@@ -30,5 +9,5 @@
     }
   ],
   "user_no": "55351e3d48c1dd9229e4073dac3d7f4faec1a7f150fb35145cda248b0adc194d",
-  "update_time": "2025-05-08T06:45:45.448Z"
+  "update_time": "2025-05-25T14:32:06.221Z"
 }

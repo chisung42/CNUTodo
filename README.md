@@ -14,6 +14,7 @@ autoDCS/
 ├── pwa/                 # 프론트엔드 PWA 클라이언트
 │   └── AutoDCS-PWA/
 │       ├── index.js     # PWA 메인 코드
+│       ├── ga-server.js # 구글 애널리틱스 연동 모듈
 │       ├── public/      # 정적 파일
 │       └── resize.js    # 이미지 리사이징 도구
 │
@@ -30,6 +31,7 @@ autoDCS/
 - PWA 클라이언트를 통한 모바일 친화적 인터페이스
 - 푸시 알림 기능 제공
 - GitHub를 통한 효율적인 코드 관리
+- 구글 애널리틱스 통합 대시보드
 
 ## 설치 방법
 
@@ -69,6 +71,49 @@ node main.js
 cd pwa/AutoDCS-PWA
 npm start
 ```
+
+## 구글 애널리틱스 설정 방법
+
+### 1. 필요한 라이브러리 설치
+
+```bash
+cd pwa/AutoDCS-PWA
+npm install @google-analytics/data node-fetch
+```
+
+### 2. 구글 애널리틱스 설정
+
+1. [Google Cloud Console](https://console.cloud.google.com/)에서 새 프로젝트를 생성합니다.
+2. [Google Analytics](https://analytics.google.com/)에서 계정과 데이터 스트림을 설정합니다.
+3. Google Cloud Console에서 서비스 계정을 생성합니다:
+   - IAM & 관리 > 서비스 계정 > 서비스 계정 만들기
+   - 적절한 권한 부여(Analytics 읽기 권한)
+   - 키 생성(JSON 형식)
+4. 생성된 서비스 계정 키 파일을 프로젝트의 안전한 위치에 복사합니다.
+
+### 3. 환경 변수 설정
+
+`ga-config.example.json` 파일을 `ga-config.json`으로 복사하고, 다음 정보를 수정합니다:
+
+```bash
+cp pwa/AutoDCS-PWA/ga-config.example.json pwa/AutoDCS-PWA/ga-config.json
+```
+
+그리고 다음 정보를 채워넣습니다:
+- propertyId: GA4 속성 ID (G-XXXXXXXXXX 형식)
+- apiSecret: GA4 API 시크릿 키
+- serviceAccount: 2단계에서 다운로드한 서비스 계정 JSON 내용
+
+### 4. 관리자 대시보드 접속
+
+서버 실행 후, 다음 URL로 관리자 대시보드에 접속할 수 있습니다:
+```
+http://localhost:8080/admin/dashboard
+```
+
+기본 계정 정보:
+- 사용자: admin
+- 비밀번호: secure_password_here (실제 운영 환경에서는 반드시 변경하세요)
 
 ## 개발 환경 설정
 

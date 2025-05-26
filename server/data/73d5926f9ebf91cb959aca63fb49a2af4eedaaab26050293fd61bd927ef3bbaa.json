@@ -1,5 +1,13 @@
 {
-  "todo_list": [],
+  "todo_list": [
+    {
+      "course_nm": "목재물리학및실험",
+      "due_date": "20250603235900",
+      "info": "20250531235900",
+      "item_title_temp": "물리학 실험 레포트 2. (열/광/음향)",
+      "type": "과제"
+    }
+  ],
   "user_no": "73d5926f9ebf91cb959aca63fb49a2af4eedaaab26050293fd61bd927ef3bbaa",
-  "update_time": "2025-04-30T02:47:32.253Z"
+  "update_time": "2025-05-20T00:32:48.948Z"
 }

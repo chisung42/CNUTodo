@@ -29,48 +29,55 @@
       "type": "콘텐츠"
     },
     {
-      "course_nm": "자료구조와 알고리즘",
-      "due_date": "20250513000000",
-      "info": "20250513000000",
-      "item_title_temp": "2교시",
+      "course_nm": "언어정보처리개론",
+      "due_date": "20250628235900",
+      "info": "20250628235900",
+      "item_title_temp": "[영상] 자료구조 교재 4.1, 4.2 동적배열, 연결리스트",
       "type": "콘텐츠"
     },
     {
-      "course_nm": "자료구조와 알고리즘",
-      "due_date": "20250513000000",
-      "info": "20250513000000",
-      "item_title_temp": "1교시",
+      "course_nm": "언어정보처리개론",
+      "due_date": "20250621235900",
+      "info": "20250621235900",
+      "item_title_temp": "[영상] 교재 4.2, 4,3. 리스트, 스택, 큐, 딕셔너리",
       "type": "콘텐츠"
     },
     {
-      "course_nm": "자료구조와 알고리즘",
-      "due_date": "20250519235900",
-      "info": "20250519235900",
-      "item_title_temp": "1교시",
+      "course_nm": "언어정보처리개론",
+      "due_date": "20250620235900",
+      "info": "20250620235900",
+      "item_title_temp": "[영상] 연습 4.1 dict 이용 부분합 계산",
       "type": "콘텐츠"
     },
     {
-      "course_nm": "자료구조와 알고리즘",
-      "due_date": "20250519235900",
-      "info": "20250519235900",
-      "item_title_temp": "2교시",
+      "course_nm": "언어정보처리개론",
+      "due_date": "20250621235900",
+      "info": "20250621235900",
+      "item_title_temp": "[영상] 연습 4.2",
       "type": "콘텐츠"
     },
     {
-      "course_nm": "자료구조와 알고리즘",
-      "due_date": "20250513235900",
-      "info": "20250513235900",
-      "item_title_temp": "10주차 과제",
-      "type": "과제"
+      "course_nm": "음성데이터통계분석",
+      "due_date": "20250601235900",
+      "info": "20250601235900",
+      "item_title_temp": "expMFC: [야] 조음정확도 평가",
+      "type": "콘텐츠"
     },
     {
-      "course_nm": "자료구조와 알고리즘",
-      "due_date": "20250512235959",
-      "info": "20250512235959",
-      "item_title_temp": "10주차 퀴즈",
-      "type": "퀴즈"
+      "course_nm": "음성데이터통계분석",
+      "due_date": "20250608235900",
+      "info": "20250608235900",
+      "item_title_temp": "agreement & reliability test",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "의미론",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "수업19_slides(5/26)",
+      "type": "자료실"
     }
   ],
   "user_no": "80b7d9c5e8bc0f0a3d0375871f5657a113a8ddcc05863d1efcd2b673ec025615",
-  "update_time": "2025-05-07T00:10:38.729Z"
+  "update_time": "2025-05-26T03:50:20.947Z"
 }

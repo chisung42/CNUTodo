@@ -1,72 +1,426 @@
 {
   "todo_list": [
     {
-      "course_nm": "블록체인 프로그래밍",
-      "due_date": "20250407235900",
-      "item_title_temp": "totalSupply, balanceOf state",
+      "course_nm": "데이터베이스",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "데이터베이스 홍보영상",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "데이터베이스",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "관계형 데이터베이스 개요_실습",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "데이터베이스",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "4주차_DML 학습하기",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "데이터베이스",
+      "due_date": "20250702235900",
+      "info": "20250702235900",
+      "item_title_temp": "4주차_WHERE 절 학습하기",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "데이터베이스",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "6-2_ORDER BY 절 학습하기",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "데이터베이스",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "6-1_GROUP BY, HAVING 절",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "데이터베이스",
+      "due_date": "20250630000000",
+      "info": "20250630000000",
+      "item_title_temp": "7- JOIN 학습하기",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "데이터베이스",
+      "due_date": "20250630000000",
+      "info": "20250630000000",
+      "item_title_temp": "7-STANDARD JOIN 학습하기",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "데이터베이스",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "집합 연산자",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "데이터베이스",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "08-계층형 질의와 셀프 조인",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "데이터베이스",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "09-실습_서브쿼리 학습하기",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "데이터베이스",
+      "due_date": "20250630160000",
+      "info": "20250630160000",
+      "item_title_temp": "2013+2020 SQL 전문가 가이드(1과목 1장) PartA",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "데이터베이스",
+      "due_date": "20250630160000",
+      "info": "20250630160000",
+      "item_title_temp": "10-트랜잭션",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "데이터베이스",
+      "due_date": "20250702160000",
+      "info": "20250702160000",
+      "item_title_temp": "2013+2020 SQL 전문가 가이드(1과목 1장) PartB",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "데이터베이스",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "10-실습_GROUP FUNCTION",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "데이터베이스",
+      "due_date": "20250630235900",
+      "info": "20250630235900",
+      "item_title_temp": "10-실습_WINDOW FUNCTION",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "데이터베이스",
+      "due_date": "20250630160000",
+      "info": "20250630160000",
+      "item_title_temp": "11. 보안성",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "데이터베이스",
+      "due_date": "20250630140000",
+      "info": "20250630140000",
+      "item_title_temp": "11. TCL",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "데이터베이스",
+      "due_date": "20250630140000",
+      "info": "20250630140000",
+      "item_title_temp": "11. DCL",
       "type": "콘텐츠"
     },
     {
       "course_nm": "블록체인 프로그래밍",
-      "due_date": "20250407235800",
-      "item_title_temp": "test totalSupply, balanceOf",
+      "due_date": "20250520235900",
+      "info": "20250520235900",
+      "item_title_temp": "no-reentrancy",
       "type": "콘텐츠"
     },
     {
       "course_nm": "블록체인 프로그래밍",
-      "due_date": "20250407235900",
-      "item_title_temp": "mint function",
+      "due_date": "20250520235900",
+      "info": "20250520235900",
+      "item_title_temp": "exploit test",
       "type": "콘텐츠"
     },
     {
       "course_nm": "블록체인 프로그래밍",
-      "due_date": "20250407235900",
-      "item_title_temp": "git commit",
+      "due_date": "20250520235900",
+      "info": "20250520235900",
+      "item_title_temp": "compiler setting",
       "type": "콘텐츠"
     },
     {
       "course_nm": "블록체인 프로그래밍",
-      "due_date": "20250407235900",
-      "item_title_temp": "test minting",
+      "due_date": "20250520235900",
+      "info": "20250520235900",
+      "item_title_temp": "vyper",
       "type": "콘텐츠"
     },
     {
       "course_nm": "블록체인 프로그래밍",
-      "due_date": "20250407235900",
-      "item_title_temp": "balance check (require)",
+      "due_date": "20250520235900",
+      "info": "20250520235900",
+      "item_title_temp": "vyper contract",
       "type": "콘텐츠"
     },
     {
       "course_nm": "블록체인 프로그래밍",
-      "due_date": "20250407235900",
-      "item_title_temp": "transfer function",
+      "due_date": "20250520235900",
+      "info": "20250520235900",
+      "item_title_temp": "mytoken functions test",
       "type": "콘텐츠"
     },
     {
-      "course_nm": "취업과 창업",
-      "due_date": "20250407235900",
-      "item_title_temp": "5-1주차_취업은 멋진 인생의 출발점",
+      "course_nm": "블록체인 프로그래밍",
+      "due_date": "20250520235900",
+      "info": "20250520235900",
+      "item_title_temp": "mytoken & test",
       "type": "콘텐츠"
     },
     {
-      "course_nm": "취업과 창업",
-      "due_date": "20250407235900",
-      "item_title_temp": "5-2주차_매력적인 PT의 개념",
+      "course_nm": "블록체인 프로그래밍",
+      "due_date": "20250520235900",
+      "info": "20250520235900",
+      "item_title_temp": "mytoken functions",
       "type": "콘텐츠"
     },
     {
       "course_nm": "운영체제및실습",
-      "due_date": "20250408235900",
-      "item_title_temp": "6주차 과제",
+      "due_date": "20250619235900",
+      "info": "20250619235900",
+      "item_title_temp": "운영체제 개요",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "운영체제및실습",
+      "due_date": "20250619235900",
+      "info": "20250619235900",
+      "item_title_temp": "5주차 실습",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "운영체제및실습",
+      "due_date": "20250701235900",
+      "info": "20250701235900",
+      "item_title_temp": "보충학습 자료: Deadlock 처리, banker's Algorithm",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "운영체제및실습",
+      "due_date": "20250701235900",
+      "info": "20250701235900",
+      "item_title_temp": "7주차 실습",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "운영체제및실습",
+      "due_date": "20250713235900",
+      "info": "20250713235900",
+      "item_title_temp": "8주차 실습",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "운영체제및실습",
+      "due_date": "20250701235900",
+      "info": "20250701235900",
+      "item_title_temp": "파일시스템 사례",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "운영체제및실습",
+      "due_date": "20250701235900",
+      "info": "20250701235900",
+      "item_title_temp": "입출력관리 개요",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "운영체제및실습",
+      "due_date": "20250701235900",
+      "info": "20250701235900",
+      "item_title_temp": "인터럽트 처리",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "운영체제및실습",
+      "due_date": "20250701235900",
+      "info": "20250701235900",
+      "item_title_temp": "I/O 제어 : 폴링",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "운영체제및실습",
+      "due_date": "20250701235900",
+      "info": "20250701235900",
+      "item_title_temp": " I/O 제어 : 인터럽트 IO, DMA",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "운영체제및실습",
+      "due_date": "20250701235900",
+      "info": "20250701235900",
+      "item_title_temp": "디스크 스케줄링",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "운영체제및실습",
+      "due_date": "20250625235900",
+      "info": "20250625235900",
+      "item_title_temp": "10주차 실습",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "운영체제및실습",
+      "due_date": "20250701235900",
+      "info": "20250701235900",
+      "item_title_temp": "디바이스 드라이버",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "운영체제및실습",
+      "due_date": "20250701235900",
+      "info": "20250701235900",
+      "item_title_temp": "RAID",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "운영체제및실습",
+      "due_date": "20250701235900",
+      "info": "20250701235900",
+      "item_title_temp": "메모리관리 개요",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "운영체제및실습",
+      "due_date": "20250701235900",
+      "info": "20250701235900",
+      "item_title_temp": "메모리 파티셔닝",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "운영체제및실습",
+      "due_date": "20250701235900",
+      "info": "20250701235900",
+      "item_title_temp": "Virtual Address Space",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "운영체제및실습",
+      "due_date": "20250625235900",
+      "info": "20250625235900",
+      "item_title_temp": "11주차 실습",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "운영체제및실습",
+      "due_date": "20250701235900",
+      "info": "20250701235900",
+      "item_title_temp": "Address binding",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "운영체제및실습",
+      "due_date": "20250701235900",
+      "info": "20250701235900",
+      "item_title_temp": "페이징",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "운영체제및실습",
+      "due_date": "20250701235900",
+      "info": "20250701235900",
+      "item_title_temp": "세그멘테이션",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "운영체제및실습",
+      "due_date": "20250701235900",
+      "info": "20250701235900",
+      "item_title_temp": "가상메모리 개념",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "운영체제및실습",
+      "due_date": "20250625235900",
+      "info": "20250625235900",
+      "item_title_temp": "12주차 실습",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "취업과 창업",
+      "due_date": "20250519235900",
+      "info": "20250519235900",
+      "item_title_temp": "11주차_창업을 통한 진로탐색",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "데이터베이스",
+      "due_date": "20250630140000",
+      "info": "20250630140000",
+      "item_title_temp": "11-실습_DCL,TCL",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "실전코딩",
+      "due_date": "20250518175900",
+      "info": "20250518175900",
+      "item_title_temp": "수업자료",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "프로그래밍언어개론",
+      "due_date": "20250518235900",
+      "info": "20250518235900",
+      "item_title_temp": "Imperative Language: MiniC Part1",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "데이터베이스",
+      "due_date": "20250520235900",
+      "info": "20250515235900",
+      "item_title_temp": "[TP-5] 통계 질의",
+      "type": "과제"
+    },
+    {
+      "course_nm": "데이터통신",
+      "due_date": "20250521235900",
+      "info": "20250518235900",
+      "item_title_temp": "11주차 실습과제",
+      "type": "과제"
+    },
+    {
+      "course_nm": "운영체제및실습",
+      "due_date": "20250520235900",
+      "info": "20250520235900",
+      "item_title_temp": "12주차 과제",
+      "type": "과제"
+    },
+    {
+      "course_nm": "취업과 창업",
+      "due_date": "20250516235900",
+      "info": "20250516235900",
+      "item_title_temp": "중간고사 과제 진로활동 체험 보고서",
+      "type": "과제"
+    },
+    {
+      "course_nm": "취업과 창업",
+      "due_date": "20250606235900",
+      "info": "20250606235900",
+      "item_title_temp": "취업과 창업 기말고사 과제",
       "type": "과제"
     },
     {
       "course_nm": "프로그래밍언어개론",
-      "due_date": "20250403235900",
-      "item_title_temp": "4주차 과제",
+      "due_date": "20250515235900",
+      "info": "20250515235900",
+      "item_title_temp": "10주차 과제",
       "type": "과제"
     }
   ],
   "user_no": "525e17f4286506bc5dc377a2d5efd1093b70232c9194769e3790574b7b124ae6",
-  "update_time": "2025-04-02T02:33:47.808Z"
+  "update_time": "2025-05-13T09:39:28.985Z"
 }

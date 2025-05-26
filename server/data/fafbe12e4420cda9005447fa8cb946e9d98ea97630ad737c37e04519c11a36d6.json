@@ -46,13 +46,6 @@
       "course_nm": "유기화학1",
       "due_date": "20250621235900",
       "info": "20250621235900",
-      "item_title_temp": "Chapter 8-2",
-      "type": "콘텐츠"
-    },
-    {
-      "course_nm": "유기화학1",
-      "due_date": "20250621235900",
-      "info": "20250621235900",
       "item_title_temp": "Chapter 9-1",
       "type": "콘텐츠"
     },
@@ -93,12 +86,19 @@
     },
     {
       "course_nm": "공학수학",
-      "due_date": "20250510235900",
-      "info": "20250510235900",
-      "item_title_temp": "HW05",
+      "due_date": "20250526235900",
+      "info": "20250526235900",
+      "item_title_temp": " HW06",
+      "type": "과제"
+    },
+    {
+      "course_nm": "물리화학",
+      "due_date": "20250526235900",
+      "info": "20250526235900",
+      "item_title_temp": "HW03",
       "type": "과제"
     }
   ],
   "user_no": "fafbe12e4420cda9005447fa8cb946e9d98ea97630ad737c37e04519c11a36d6",
-  "update_time": "2025-05-08T08:57:20.455Z"
+  "update_time": "2025-05-21T12:11:54.936Z"
 }

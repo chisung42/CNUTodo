@@ -2,33 +2,61 @@
   "todo_list": [
     {
       "course_nm": "범죄의진실과오해",
-      "due_date": "20250511235900",
-      "info": "20250511235900",
-      "item_title_temp": " Lecture9_School Violence(05.07. 동영상강의#1)",
+      "due_date": "20250601235900",
+      "info": "20250601235900",
+      "item_title_temp": " Lecture14. Big Questions about Crime #3(5.26. 동영상강의)",
       "type": "콘텐츠"
     },
     {
       "course_nm": "범죄의진실과오해",
-      "due_date": "20250511235900",
-      "info": "20250511235900",
-      "item_title_temp": " Lecture9_Bullying(05.07. 동영상강의#2)",
+      "due_date": "20250601235900",
+      "info": "20250601235900",
+      "item_title_temp": " Lecture15. Big Questions about Crime #4(5.28. 동영상강의)",
+      "type": "콘텐츠"
+    },
+    {
+      "course_nm": "이차전지 융합공학 기술",
+      "due_date": "20250526235900",
+      "info": "20250526235900",
+      "item_title_temp": "12주 1회차",
       "type": "콘텐츠"
     },
     {
       "course_nm": "범죄의진실과오해",
-      "due_date": "20250511235900",
-      "info": "20250511235900",
-      "item_title_temp": "Lecture9_School Violence & Bullying",
+      "due_date": "20250601235900",
+      "info": "20250601235900",
+      "item_title_temp": " Lecture14. Big Questions about Crime #3",
       "type": "자료실"
     },
     {
       "course_nm": "범죄의진실과오해",
-      "due_date": "20250511235959",
-      "info": "20250511235959",
-      "item_title_temp": "10주차 퀴즈",
+      "due_date": "20250601235900",
+      "info": "20250601235900",
+      "item_title_temp": " Lecture15. Big Questions about Crime #4",
+      "type": "자료실"
+    },
+    {
+      "course_nm": "회계의이해",
+      "due_date": "20250526235900",
+      "info": "20250526235900",
+      "item_title_temp": "8장 숙제",
+      "type": "과제"
+    },
+    {
+      "course_nm": "회계의이해",
+      "due_date": "20250601235900",
+      "info": "20250601235900",
+      "item_title_temp": "9장 과제",
+      "type": "과제"
+    },
+    {
+      "course_nm": "범죄의진실과오해",
+      "due_date": "20250601235959",
+      "info": "20250601235959",
+      "item_title_temp": "13주차 퀴즈",
       "type": "퀴즈"
     }
   ],
   "user_no": "1af994828ab120340eb30f31169005c829b2a5c2d0b71016a7f72d2c9f1593de",
-  "update_time": "2025-05-08T08:13:24.548Z"
+  "update_time": "2025-05-25T17:18:12.412Z"
 }

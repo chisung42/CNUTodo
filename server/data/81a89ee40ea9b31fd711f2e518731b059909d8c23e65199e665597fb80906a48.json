@@ -2,31 +2,17 @@
   "todo_list": [
     {
       "course_nm": "미적분학1",
-      "due_date": "20250511235900",
-      "info": "20250513235900",
-      "item_title_temp": "Week 10-1",
+      "due_date": "20250601235900",
+      "info": "20250601235900",
+      "item_title_temp": "Week 13-1",
       "type": "콘텐츠"
     },
     {
       "course_nm": "미적분학1",
-      "due_date": "20250511235900",
-      "info": "20250511235900",
-      "item_title_temp": "Week 10-2",
+      "due_date": "20250601235900",
+      "info": "20250601235900",
+      "item_title_temp": "Week 13-2",
       "type": "콘텐츠"
-    },
-    {
-      "course_nm": "미적분학1",
-      "due_date": "20250512235900",
-      "info": "20250512235900",
-      "item_title_temp": "HW9",
-      "type": "과제"
-    },
-    {
-      "course_nm": "미적분학1",
-      "due_date": "20250519235900",
-      "info": "20250519235900",
-      "item_title_temp": "HW10",
-      "type": "과제"
     },
     {
       "course_nm": "미적분학1",
@@ -51,5 +37,5 @@
     }
   ],
   "user_no": "81a89ee40ea9b31fd711f2e518731b059909d8c23e65199e665597fb80906a48",
-  "update_time": "2025-05-05T11:51:57.244Z"
+  "update_time": "2025-05-25T15:48:03.459Z"
 }

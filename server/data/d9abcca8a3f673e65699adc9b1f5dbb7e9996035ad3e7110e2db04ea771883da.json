@@ -317,13 +317,6 @@
     },
     {
       "course_nm": "열전달",
-      "due_date": "20250603235900",
-      "info": "20250531235900",
-      "item_title_temp": "과제 8",
-      "type": "과제"
-    },
-    {
-      "course_nm": "열전달",
       "due_date": "20250615235900",
       "info": "20250611235900",
       "item_title_temp": "과제 9",
@@ -331,5 +324,5 @@
     }
   ],
   "user_no": "d9abcca8a3f673e65699adc9b1f5dbb7e9996035ad3e7110e2db04ea771883da",
-  "update_time": "2025-05-08T07:49:01.855Z"
+  "update_time": "2025-05-23T05:47:04.688Z"
 }

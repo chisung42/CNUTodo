@@ -1,20 +1,6 @@
 {
   "todo_list": [
     {
-      "course_nm": "AI 데이터 표현과 모델링",
-      "due_date": "20250511235900",
-      "info": "20250511235900",
-      "item_title_temp": "9주차 온라인수업",
-      "type": "콘텐츠"
-    },
-    {
-      "course_nm": "AI 데이터 표현과 모델링",
-      "due_date": "20250512235900",
-      "info": "20250512235900",
-      "item_title_temp": "9주차 온라인실습",
-      "type": "콘텐츠"
-    },
-    {
       "course_nm": "기초프로젝트랩",
       "due_date": "20250630235900",
       "info": "20250630235900",
@@ -36,104 +22,55 @@
       "type": "콘텐츠"
     },
     {
-      "course_nm": "자료구조",
-      "due_date": "20250519235900",
-      "info": "20250519235900",
-      "item_title_temp": "Binary Search Tree",
+      "course_nm": "폐수처리공정및설계",
+      "due_date": "20250526235900",
+      "info": "20250526235900",
+      "item_title_temp": "(11주2회차)_물리적 단위공정_PartA_01",
       "type": "콘텐츠"
     },
     {
       "course_nm": "폐수처리공정및설계",
-      "due_date": "20250512235900",
-      "info": "20250512235900",
-      "item_title_temp": "(9주1회차)_공정의 분석과 선택_04",
+      "due_date": "20250526235900",
+      "info": "20250526235900",
+      "item_title_temp": "(11주3회차)_물리적 단위공정_PartA_02",
       "type": "콘텐츠"
     },
     {
       "course_nm": "폐수처리공정및설계",
-      "due_date": "20250512235900",
-      "info": "20250512235900",
-      "item_title_temp": "(9주2회차)_공정의 분석과 선택_05",
+      "due_date": "20250602235900",
+      "info": "20250602235900",
+      "item_title_temp": "(12주1회차)_물리적 단위공정_PartA_03",
       "type": "콘텐츠"
     },
     {
       "course_nm": "폐수처리공정및설계",
-      "due_date": "20250512235900",
-      "info": "20250512235900",
-      "item_title_temp": "(9주3회차)_공정의 분석과 선택_06",
+      "due_date": "20250602235900",
+      "info": "20250602235900",
+      "item_title_temp": "(12주2회차)_물리적 단위공정_PartA_04",
       "type": "콘텐츠"
     },
     {
       "course_nm": "폐수처리공정및설계",
-      "due_date": "20250519235900",
-      "info": "20250519235900",
-      "item_title_temp": "(10주1회차)_공정의 분석과 선택_07",
-      "type": "콘텐츠"
-    },
-    {
-      "course_nm": "폐수처리공정및설계",
-      "due_date": "20250519235900",
-      "info": "20250519235900",
-      "item_title_temp": "(10주2회차)_공정의 분석과 선택_08",
-      "type": "콘텐츠"
-    },
-    {
-      "course_nm": "폐수처리공정및설계",
-      "due_date": "20250519235900",
-      "info": "20250519235900",
-      "item_title_temp": "(10주2회차)_공정의 분석과 선택_08_보완영상",
-      "type": "콘텐츠"
-    },
-    {
-      "course_nm": "폐수처리공정및설계",
-      "due_date": "20250519235900",
-      "info": "20250519235900",
-      "item_title_temp": "(10주3회차)_공정의 분석과 선택_09",
+      "due_date": "20250602235900",
+      "info": "20250602235900",
+      "item_title_temp": "(12주3회차)_물리적 단위공정_PartA_05",
       "type": "콘텐츠"
     },
     {
       "course_nm": "AI 데이터 표현과 모델링",
-      "due_date": "20250512235900",
-      "info": "20250512235900",
-      "item_title_temp": "9주차 실습자료",
-      "type": "자료실"
-    },
-    {
-      "course_nm": "AI 데이터 표현과 모델링",
-      "due_date": "20250513235900",
-      "info": "20250513235900",
-      "item_title_temp": "9주차 강의자료",
-      "type": "자료실"
-    },
-    {
-      "course_nm": "AI 데이터 표현과 모델링",
-      "due_date": "20250512235900",
-      "info": "20250512235900",
-      "item_title_temp": "HW07",
+      "due_date": "20250526235900",
+      "info": "20250526235900",
+      "item_title_temp": "HW09",
       "type": "과제"
     },
     {
       "course_nm": "자료구조",
       "due_date": "20250615235900",
-      "info": "20250519235900",
-      "item_title_temp": "Binary Search Tree",
+      "info": "20250526235900",
+      "item_title_temp": "RedBlackTree",
       "type": "과제"
-    },
-    {
-      "course_nm": "자료구조",
-      "due_date": "20250615235900",
-      "info": "20250512235900",
-      "item_title_temp": "UNion Find",
-      "type": "과제"
-    },
-    {
-      "course_nm": "기초프로젝트랩",
-      "due_date": "202505141459",
-      "info": "20250514145900",
-      "item_title_temp": "팀 활동 보고서 제출 # 8",
-      "type": "팀프로젝트"
     }
   ],
   "user_no": "646d402251d4d1ff50c8bc474db3a6fcb274efe800168a51e291ea4d3761865c",
-  "update_time": "2025-05-09T05:04:06.286Z"
+  "update_time": "2025-05-26T01:03:53.986Z"
 }
