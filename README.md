@@ -145,6 +145,24 @@ http://localhost:8080/admin/dashboard
 - `bugfix/버그명`: 버그 수정
 - `release/버전`: 배포 준비
 
+# 실제 화면
+
+<img width="1125" height="2436" alt="PhotoshopExtension_Image" src="https://github.com/user-attachments/assets/cf2aa807-131b-404d-b89c-7b783e2b0017" />
+<img width="1125" height="2436" alt="PhotoshopExtension_Image (3)" src="https://github.com/user-attachments/assets/97e6d3d6-cc17-4b41-b799-03cfe6a653bd" />
+<img width="1125" height="2436" alt="PhotoshopExtension_Image (2)" src="https://github.com/user-attachments/assets/20636c09-3e65-425f-b5d1-bcc9962a0fab" />
+<img width="1125" height="2436" alt="PhotoshopExtension_Image (1)" src="https://github.com/user-attachments/assets/ae57f74b-9dcb-4a5a-b607-c31a5665ce84" />
+
+
+
+
+https://github.com/user-attachments/assets/66ee93ee-2908-453b-bb48-c18479726cce
+
+
+
+https://github.com/user-attachments/assets/08498ae1-6fce-42f6-9a72-7330a4d5df9d
+
+
+
 ## 통계
 ![pwa](https://github.com/user-attachments/assets/733b3ac2-6abd-4366-900d-4c453fe7a60b)
 ![pwa2](https://github.com/user-attachments/assets/e4a05d59-26d4-4bdd-b69c-8843496128a3)
@@ -152,6 +170,21 @@ http://localhost:8080/admin/dashboard
 구글 통계에서는 약 300명의 사용자가 발생했다고 하지만
 실제로 크롬 확장프로그램을 설치하고 데이터가 저장된 사용자수는 92명입니다. (생성된 json 데이터 개수로 추정)
 <img width="2560" height="1440" alt="Screenshot 2026-03-07 at 08 17 35" src="https://github.com/user-attachments/assets/28ee3ab6-800c-4268-bb3b-32b90d72209b" />
+
+## 향후 계획
+
+
+
+
+https://github.com/user-attachments/assets/965582c2-0fa9-4dce-a46a-d113cfe8ad24
+
+
+
+https://github.com/user-attachments/assets/4129d24e-9c8b-459a-ad3a-fac14766592f
+
+
+https://github.com/user-attachments/assets/a4b98f50-5b42-479a-b8cb-271eac16d56e
+
 
 ## 라이센스
 
