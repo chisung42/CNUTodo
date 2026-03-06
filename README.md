@@ -145,13 +145,10 @@ http://localhost:8080/admin/dashboard
 - `bugfix/버그명`: 버그 수정
 - `release/버전`: 배포 준비
 
-## 기여 방법
-
-1. 이 저장소를 포크합니다.
-2. 새 기능 브랜치를 생성합니다: `git checkout -b feature/amazing-feature`
-3. 변경사항을 커밋합니다: `git commit -m 'Add some amazing feature'`
-4. 브랜치에 푸시합니다: `git push origin feature/amazing-feature`
-5. Pull Request를 제출합니다.
+## 통계
+![pwa](https://github.com/user-attachments/assets/733b3ac2-6abd-4366-900d-4c453fe7a60b)
+![pwa2](https://github.com/user-attachments/assets/e4a05d59-26d4-4bdd-b69c-8843496128a3)
+![pwa3](https://github.com/user-attachments/assets/ec914fa6-7a6a-4a54-8cd8-554b70c197e8)
 
 ## 라이센스
 
