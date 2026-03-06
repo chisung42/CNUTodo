@@ -149,6 +149,9 @@ http://localhost:8080/admin/dashboard
 ![pwa](https://github.com/user-attachments/assets/733b3ac2-6abd-4366-900d-4c453fe7a60b)
 ![pwa2](https://github.com/user-attachments/assets/e4a05d59-26d4-4bdd-b69c-8843496128a3)
 ![pwa3](https://github.com/user-attachments/assets/ec914fa6-7a6a-4a54-8cd8-554b70c197e8)
+구글 통계에서는 약 300명의 사용자가 발생했다고 하지만
+실제로 크롬 확장프로그램을 설치하고 데이터가 저장된 사용자수는 92명입니다. (생성된 json 데이터 개수로 추정)
+<img width="2560" height="1440" alt="Screenshot 2026-03-07 at 08 17 35" src="https://github.com/user-attachments/assets/28ee3ab6-800c-4268-bb3b-32b90d72209b" />
 
 ## 라이센스
 
